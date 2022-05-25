@@ -1,0 +1,202 @@
+{
+    "AL": {
+        "State": "AL",
+        "JSON": ""
+    },
+    "AK": {
+        "State": "AK",
+        "JSON": ""
+    },
+    "AZ": {
+        "State": "AZ",
+        "JSON": "loiaz.md,terminationaz.md,birthcertificateaz.md,subjects.az"
+    },
+    "AR": {
+        "State": "AR",
+        "JSON": "loiar.md"
+    },
+    "CA": {
+        "State": "CA",
+        "JSON": "affadavitca.md,attendanceca.md,instructorsca.md,immunizationsca.md,subjectsca.md"
+    },
+    "CO": {
+        "State": "CO",
+        "JSON": ""
+    },
+    "CT": {
+        "State": "CT",
+        "JSON": ""
+    },
+    "DE": {
+        "State": "DE",
+        "JSON": ""
+    },
+    "FL": {
+        "State": "FL",
+        "JSON": ""
+    },
+    "GA": {
+        "State": "GA",
+        "JSON": ""
+    },
+    "HI": {
+        "State": "HI",
+        "JSON": ""
+    },
+    "ID": {
+        "State": "ID",
+        "JSON": ""
+    },
+    "IL": {
+        "State": "IL",
+        "JSON": ""
+    },
+    "IN": {
+        "State": "IN",
+        "JSON": ""
+    },
+    "IA": {
+        "State": "IA",
+        "JSON": ""
+    },
+    "KS": {
+        "State": "KS",
+        "JSON": ""
+    },
+    "KY": {
+        "State": "KY",
+        "JSON": ""
+    },
+    "LA": {
+        "State": "LA",
+        "JSON": ""
+    },
+    "ME": {
+        "State": "ME",
+        "JSON": ""
+    },
+    "MD": {
+        "State": "MD",
+        "JSON": ""
+    },
+    "MA": {
+        "State": "MA",
+        "JSON": ""
+    },
+    "MI": {
+        "State": "MI",
+        "JSON": ""
+    },
+    "MN": {
+        "State": "MN",
+        "JSON": ""
+    },
+    "MS": {
+        "State": "MS",
+        "JSON": ""
+    },
+    "MO": {
+        "State": "MO",
+        "JSON": ""
+    },
+    "MT": {
+        "State": "MT",
+        "JSON": "loimt.md,attendancemt.md,annualmt.md,immunizationmt.md,subjectsmt.md,standardizedtesthighschoolny.md"
+    },
+    "NE": {
+        "State": "NE",
+        "JSON": ""
+    },
+    "NV": {
+        "State": "NV",
+        "JSON": ""
+    },
+    "NH": {
+        "State": "NH",
+        "JSON": ""
+    },
+    "NJ": {
+        "State": "NJ",
+        "JSON": ""
+    },
+    "NM": {
+        "State": "NM",
+        "JSON": ""
+    },
+    "NY": {
+        "State": "NY",
+        "JSON": "loiny.md,ihipny.md,attendanceny.md,quarterlyny.md,annualassessmentny.md,subjectsny.md,stdtestsny.md"
+    },
+    "NC": {
+        "State": "NC",
+        "JSON": ""
+    },
+    "ND": {
+        "State": "ND",
+        "JSON": ""
+    },
+    "OH": {
+        "State": "OH",
+        "JSON": ""
+    },
+    "OK": {
+        "State": "OK",
+        "JSON": ""
+    },
+    "OR": {
+        "State": "OR",
+        "JSON": ""
+    },
+    "PA": {
+        "State": "PA",
+        "JSON": ""
+    },
+    "RI": {
+        "State": "RI",
+        "JSON": ""
+    },
+    "SC": {
+        "State": "SC",
+        "JSON": ""
+    },
+    "SD": {
+        "State": "SD",
+        "JSON": ""
+    },
+    "TN": {
+        "State": "TN",
+        "JSON": ""
+    },
+    "TX": {
+        "State": "TX",
+        "JSON": ""
+    },
+    "UT": {
+        "State": "UT",
+        "JSON": ""
+    },
+    "VT": {
+        "State": "VT",
+        "JSON": ""
+    },
+    "VA": {
+        "State": "VA",
+        "JSON": ""
+    },
+    "WA": {
+        "State": "WA",
+        "JSON": ""
+    },
+    "WV": {
+        "State": "WV",
+        "JSON": ""
+    },
+    "WI": {
+        "State": "WI",
+        "JSON": ""
+    },
+    "WY": {
+        "State": "WY",
+        "JSON": ""
+    }
+}
