@@ -1,8 +1,6 @@
 #!/usr/bin/python
 import csv, json
 
-# print("hello")
-
 csvFilePath = 'staterequirements.csv'
 jsonFilePath = 'stateRequirementsJSON.json'
 
